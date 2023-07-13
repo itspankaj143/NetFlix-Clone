@@ -1,3 +1,6 @@
+![Screenshot_20230713_185226](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/4300b75a-d605-4149-8529-575b70c781ef)
+![Uploading Screenshot_20230713_185213.png…]()
+![Uploading Screenshot_20230713_185202.png…]()
 ![Screenshot_20230713_185246](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/3c641ff2-8173-40d6-a24a-91257d52271d)
 ![Uploading Screenshot_20230713_185226.png…]()
 ![Uploading Screenshot_20230713_185213.png…]()
@@ -9,7 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`![Uploading Screenshot_20230713_185255.png…]()
+![Uploading Screenshot_20230713_185246.png…]()
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
