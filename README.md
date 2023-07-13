@@ -1,18 +1,19 @@
 ![Screenshot_20230713_185226](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/4300b75a-d605-4149-8529-575b70c781ef)
 ![Uploading Screenshot_20230713_185213.png…]()
-![Uploading Screenshot_20230713_185202.png…]()
+![Screenshot_20230713_185202](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/ca09b7b2-5faa-4a94-a399-754e7d2dae15)
 ![Screenshot_20230713_185246](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/3c641ff2-8173-40d6-a24a-91257d52271d)
 ![Uploading Screenshot_20230713_185226.png…]()
 ![Uploading Screenshot_20230713_185213.png…]()
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Uploading Screenshot_20230713_185202.png…]()
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`![Uploading Screenshot_20230713_185255.png…]()
+### `npm start`![Screenshot_20230713_185255](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/1d62fff1-6bf8-4e12-8ebd-27488009a523)
 ![Uploading Screenshot_20230713_185246.png…]()
 
 
@@ -60,6 +61,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Uploading Screenshot_20230713_185255.png…]()
 
 ### Making a Progressive Web App
 
