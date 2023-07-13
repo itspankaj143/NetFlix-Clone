@@ -1,3 +1,6 @@
+![Screenshot_20230713_185246](https://github.com/itspankaj143/NetFlix-Clone/assets/124787647/3c641ff2-8173-40d6-a24a-91257d52271d)
+![Uploading Screenshot_20230713_185226.png…]()
+![Uploading Screenshot_20230713_185213.png…]()
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -59,7 +62,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)![Uploading Screenshot_20230713_185202.png…]()
+![Uploading Screenshot_20230713_185255.png…]()
+
 
 ### Deployment
 
